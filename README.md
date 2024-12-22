@@ -1,4 +1,4 @@
-# Paralell Gauss Project
+# Parallel Gauss Project
 
 This project computes an upper triangular matrix using a parallelized approach based on the normal Foaty form.
 
